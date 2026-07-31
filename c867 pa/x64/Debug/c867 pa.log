@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\main.cpp(33,9): warning C4552: '-': result of expression not used
+  roster.cpp
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(5,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(10,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(15,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(20,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(25,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(30,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(35,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(40,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\c867 pa\roster.cpp(44,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  LINK : C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\x64\Debug\c867 pa.exe not found or not built by the last incremental link; performing full link
+  c867 pa.vcxproj -> C:\Users\bryan\Downloads\C867 PA - Bryan Huynh\C867 PA - Bryan Huynh\x64\Debug\c867 pa.exe
