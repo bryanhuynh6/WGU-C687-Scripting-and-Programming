@@ -138,3 +138,5 @@ classRoster.remove("A3");
  
 
 G.  Demonstrate professional communication in the content and presentation of your submission.
+
+<img width="1111" height="1117" alt="C867 Screenshot" src="https://github.com/user-attachments/assets/3e1d97f9-4197-42ff-b250-9000d39a9b04" />
